@@ -1,0 +1,15 @@
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/bin/Debug/net7.0/EnumerationExercise
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/bin/Debug/net7.0/EnumerationExercise.deps.json
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/bin/Debug/net7.0/EnumerationExercise.runtimeconfig.json
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/bin/Debug/net7.0/EnumerationExercise.dll
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/bin/Debug/net7.0/EnumerationExercise.pdb
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/obj/Debug/net7.0/EnumerationExercise.csproj.AssemblyReference.cache
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/obj/Debug/net7.0/EnumerationExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/obj/Debug/net7.0/EnumerationExercise.AssemblyInfoInputs.cache
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/obj/Debug/net7.0/EnumerationExercise.AssemblyInfo.cs
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/obj/Debug/net7.0/EnumerationExercise.csproj.CoreCompileInputs.cache
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/obj/Debug/net7.0/EnumerationExercise.dll
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/obj/Debug/net7.0/refint/EnumerationExercise.dll
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/obj/Debug/net7.0/EnumerationExercise.pdb
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/obj/Debug/net7.0/EnumerationExercise.genruntimeconfig.cache
+/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/obj/Debug/net7.0/ref/EnumerationExercise.dll

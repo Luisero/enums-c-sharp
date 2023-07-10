@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+yqkiIyCKPRPgJlwneL75fLThqvXnKTQ8GJBIiFbIWT5v16/laDIoFnfvSLkjdgodE7Ak47Pn6NBOMJM+TXJw==",
+  "success": true,
+  "projectFilePath": "/home/luis/RiderProjects/EnumerationExercise/EnumerationExercise/EnumerationExercise.csproj",
+  "expectedPackageFiles": [
+    "/home/luis/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.7/microsoft.aspnetcore.app.ref.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
